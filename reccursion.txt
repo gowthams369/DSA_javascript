@@ -1,0 +1,8 @@
+Recursion - is a problem solving technique where the solution depends on the solution to smaller instance of the same problem
+
+Recursion is a function call itself 
+
+we can breakdown our problem into smaller version of sme problem,recursion is very useful 
+
+
+every recursive solutions need to have a base cas - a condition to terminate the recursion
